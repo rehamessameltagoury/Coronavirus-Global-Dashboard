@@ -7,7 +7,7 @@ Covid Dashboard using Dash and Potly
  * Mariam Khaled
 
 
-## ![Dashboard](https://github.com/rehamessameltagoury/Coronavirus-Global-Dashboard/blob/main/CoronavirusGlobalDashboard.ipynb) :
+## [Dashboard](https://github.com/rehamessameltagoury/Coronavirus-Global-Dashboard/blob/main/CoronavirusGlobalDashboard.ipynb) :
 ![image](https://user-images.githubusercontent.com/36308055/138860824-58291b26-3f8e-496a-b4ef-965c54348cda.png)
 
 ![image](https://user-images.githubusercontent.com/36308055/138861037-e00a802b-c42e-4549-a3c0-eaa231fcaaa0.png)
