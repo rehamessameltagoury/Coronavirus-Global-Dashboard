@@ -12,5 +12,5 @@ Covid Dashboard using Dash and Potly
 
 ![image](https://user-images.githubusercontent.com/36308055/138861037-e00a802b-c42e-4549-a3c0-eaa231fcaaa0.png)
 
-![image](https://user-images.githubusercontent.com/36308055/138861089-9de879d4-7190-4201-afc0-c6e472417ab1.png)
+![image](![image](https://user-images.githubusercontent.com/36280726/138908218-8c35171f-0d21-4cef-9445-698a86760edc.png))
 
