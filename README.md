@@ -1,7 +1,7 @@
 # Coronavirus-Global-Dashboard
 Covid Dashboard using Dash and Potly 
-## This Project is Part of Data Visualization Course in ITI AI-Pro Program
-## We build An Interactable Dashboard using WHO Coronavirus Data
+### This Project is Part of Data Visualization Course in ITI AI-Pro Program
+### We build An Interactable Dashboard using WHO Coronavirus Data
 ## Team Members:
  * Reham ElTagoury
  * Mariam Khaled
